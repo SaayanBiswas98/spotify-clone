@@ -1,0 +1,43 @@
+
+.Header__left img{
+  width:50%;
+  background-color: black;
+
+}
+.header{
+  width: 100%;
+  background-color: black;
+}
+.Main{
+  background-color: black;
+  width:100%;
+  
+}
+.Main img{
+  width: 100%;
+  height:100vh;
+  max-width: 1600px;
+  min-width: 400px;
+}
+.Header__left h2{
+  color:white;
+  float:right;
+  word-spacing: 10px;
+  background-color: transparent;
+}
+.button{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 50px;
+  justify-content: center;
+
+}
+.btn{
+  background-color: green;
+  width: 59%;
+  color:white;
+  
+  padding: 9px;
+  border-radius: 99px;
+}
